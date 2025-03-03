@@ -36,10 +36,8 @@
 ---
 
 ### 🔥 **GitHub Streak:**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankarsan-Sahoo&theme=radical" />
-</p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shankarsan-Sahoo&theme=radical)](https://git.io/streak-stats)
 ---
 
 ### 📌 **Pinned Repositories:**
