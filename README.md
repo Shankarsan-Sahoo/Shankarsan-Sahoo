@@ -37,7 +37,7 @@
 
 ### 🔥 **GitHub Streak:**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankarsan-Sahoo&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankarsan-Sahoo&theme=radical" />
 </p>
 
 ---
