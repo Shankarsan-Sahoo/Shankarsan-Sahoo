@@ -35,7 +35,6 @@
 
 ---
 
-### 🔥 **GitHub Streak:**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shankarsan-Sahoo&theme=radical)](https://git.io/streak-stats)
 
