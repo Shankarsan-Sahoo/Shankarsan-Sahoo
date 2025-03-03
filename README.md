@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shankarsan Sahoo</h1>
-<h3 align="center">Full-Stack Python Developer | Backend Enthusiast | Options Trading Analyst</h3>
+<h3 align="center">Full-Stack Python Developer | Backend Enthusiast |</h3>
 
 <p align="center">
-   <img src="https://github.com/TheSpeedX/TheSpeedX/raw/master/banner.png" alt="Banner" />
+   <img src="" alt="Banner" />
 </p>
 
 ---
