@@ -38,7 +38,7 @@
 
 ### 📌 **Pinned Repositories:**
 <p align="center">
-  <a href="https://github.com/Shankarsan-Sahoo/your-repo-1">
+  <a href="https://github.com/Shankarsan-Sahoo/cgpa_calculator-for-Biju-Patnaik-University-of-Technology-BPUT-.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankarsan-Sahoo&repo=your-repo-1&theme=radical" />
   </a>
   <a href="https://github.com/Shankarsan-Sahoo/your-repo-2">
