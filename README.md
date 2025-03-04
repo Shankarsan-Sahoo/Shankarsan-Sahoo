@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shankarsan Sahoo</h1>
-<h3 align="center">Full-Stack Python Developer | Backend Enthusiast </h3>
-
 <p align="center">
    <img src="https://raw.githubusercontent.com/Shankarsan-Sahoo/Shankarsan-Sahoo/refs/heads/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="Banner" />
 </p>
+<h1 align="center">Hi 👋, I'm Shankarsan Sahoo</h1>
+<h3 align="center">Full-Stack Python Developer | Backend Enthusiast </h3>
 
 ---
 
