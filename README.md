@@ -2,8 +2,17 @@
   <img src="https://raw.githubusercontent.com/Shankarsan-Sahoo/Shankarsan-Sahoo/refs/heads/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="Banner" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shankarsan-Sahoo&label=Profile+Views&color=0e76a8&style=flat-square" alt="Views Counter" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shankarsan Sahoo</h1>
-<h3 align="center">Full-Stack Python Developer | Backend Enthusiast </h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Python+Developer;Backend+Enthusiast;Django+%26+FastAPI+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -18,13 +27,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankarsan-Sahoo&theme=react-dark" />
 </p>
-
-
----
-
-
-
-
 
 ---
 
@@ -42,7 +44,15 @@
 
 ---
 
-
+### 📌 **Pinned Repositories:**
+<p align="center">
+  <a href="https://github.com/Shankarsan-Sahoo/cgpa_calculator-for-Biju-Patnaik-University-of-Technology-BPUT-.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shankarsan-Sahoo&repo=cgpa_calculator-for-Biju-Patnaik-University-of-Technology-BPUT-&theme=radical" />
+  </a>
+  <a href="https://github.com/Shankarsan-Sahoo/MCQ-CRACKER.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shankarsan-Sahoo&repo=MCQ-CRACKER&theme=radical" />
+  </a>
+</p>
 
 ---
 
