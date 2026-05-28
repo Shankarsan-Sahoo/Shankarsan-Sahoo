@@ -14,6 +14,16 @@
 
 ---
 
+### 📈 **Activity Graph:**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankarsan-Sahoo&theme=react-dark" />
+</p>
+
+
+---
+
+
+
 ### 🏆 **GitHub Trophies:**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shankarsan-Sahoo&theme=darkhub&row=2&column=4" />
